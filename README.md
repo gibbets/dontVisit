@@ -1,1 +1,1 @@
-# dontVisit
+This is a small chrome extensions which will block a user specified list of websites. The intention is that I don't get distracted with websites like facebook.

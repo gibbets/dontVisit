@@ -1,0 +1,11 @@
+{
+    "name": "dontVisit",
+    "version": "0.1",
+    "description": "Disables user specified websites",
+	"background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+	"permissions": ["*://*/", "webRequest", "webRequestBlocking"],
+    "manifest_version": 2
+}
