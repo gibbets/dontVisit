@@ -6,6 +6,7 @@
       "scripts": ["background.js"],
       "persistent": true
     },
-	"permissions": ["*://*/", "webRequest", "webRequestBlocking"],
+	"options_page": "options.html",
+	"permissions": ["*://*/", "webRequest", "webRequestBlocking", "storage"],
     "manifest_version": 2
 }
